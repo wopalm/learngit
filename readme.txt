@@ -7,3 +7,5 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 增加合并
 恭恭敬敬的学习
+测试bug修复
+测试stash
