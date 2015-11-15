@@ -8,4 +8,3 @@ Creating a new branch is quick AND simple.
 增加合并
 测试bug修复
 测试stash
-苛呆弎基
