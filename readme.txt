@@ -5,3 +5,4 @@ Git跟踪文件改变
 PB只能使用SVN
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
+增加合并
